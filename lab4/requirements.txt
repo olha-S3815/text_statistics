@@ -1,4 +1,0 @@
-tokenize-uk
-pymorphy2
-pymorphy2-dicts-uk
-scikit-learn
